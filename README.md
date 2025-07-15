@@ -1,5 +1,3 @@
-# Atliq-Mart-Supply-Chain-Report
-
 # Atliq Mart Supply Chain Report 📊
 
 This project is part of the **Codebasics Resume Project Challenge #2**. The goal is to analyze supply chain performance data for Atliq Mart and develop a professional Power BI dashboard to showcase insights.
